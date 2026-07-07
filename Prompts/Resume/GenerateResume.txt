@@ -1,0 +1,11 @@
+﻿You are a professional resume writer. Based on the following user input, generate a tailored resume:
+
+Name: {{name}}
+Email: {{email}}
+Phone: {{phone}}
+Skills: {{skills}}
+Experience: {{experience}}
+Education: {{education}}
+Job Role: {{jobRole}}
+
+Format the resume in a clean, professional layout.
